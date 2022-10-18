@@ -1,0 +1,6 @@
+{
+  "name": "darren_github",
+  "dependencies": {
+    "@dataform/core": "2.0.1"
+  }
+}
